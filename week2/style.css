@@ -1,0 +1,29 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css";
+
+body{
+    font-style: italic;
+    font-size: 25px;   
+    text-align: center;
+    font: bold "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+nav{
+	display: block;
+	text-align: center;
+	letter-spacing: 0.1em;
+	padding: 1em 0.5em 3em;
+	margin-bottom: -1em;
+    text-transform: uppercase;
+    background-position: 50% 100%;
+    border-top: 2px solid black;
+	margin: 2em auto 0;
+	width: auto;
+}
+form.body {
+	font-size: 1.4em;
+	text-transform: lowercase;
+	text-align: center;
+    margin: 0.75em 0 1em;
+    font-weight: normal;
+    padding: 0 1em;
+}
